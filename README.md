@@ -1,2 +1,5 @@
-# CompleteProject
-CompleteProjectForFinalYear
+# Sentiment Analysis to Predict the COVID-19 Pandemic using the Twitter Datase
+
+Coronavirus disease 2019 (COVID-19) is an infectious disease caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). It was first identified in December 2019 in Wuhan, Hubei, China, and has resulted in an ongoing pandemic.On 11 th March 2020, World Health Organization announced COVID19 outbreak as a pandemic.Starting from China as of  July 2020, more than 14.7 million cases have been reported across 188 countries and  resulting in more than 611,000 deaths.While this pandemic has continued to affect the lives of millions, a number of countries have resorted to complete lockdown.During this lockdown, people have taken social networks to express their feelings and find a way to calm themselves down.
+
+In this project, sentiment analysis of the tweets has been done and a machine learning model has been made which can predict the sentiment of the tweets related to COVID-19.This project has taken into account the tweets from several countries.These tweets have been gathered from 31st March 2020 to 10th April 2020, and are related to COVID19 in some or the other way. This analysis has been done to analyse how the citizens of different countries are dealing with the situation. The tweets have been collected, pre-processed, and then used for text mining and sentiment analysis.
