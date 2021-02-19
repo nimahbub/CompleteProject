@@ -1,4 +1,4 @@
-# Sentiment Analysis to Predict the COVID-19 Pandemic using the Twitter Datase
+#  Analysis and predict the sentiments of twitter user in  COVID-19 pandemic situation. 
 
 Coronavirus disease 2019 (COVID-19) is an infectious disease caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). It was first identified in December 2019 in Wuhan, Hubei, China, and has resulted in an ongoing pandemic.On 11 th March 2020, World Health Organization announced COVID19 outbreak as a pandemic.Starting from China as of  July 2020, more than 14.7 million cases have been reported across 188 countries and  resulting in more than 611,000 deaths.While this pandemic has continued to affect the lives of millions, a number of countries have resorted to complete lockdown.During this lockdown, people have taken social networks to express their feelings and find a way to calm themselves down.
 
